@@ -1,7 +1,6 @@
 <h1 align="center">Olá 👋 Nós Somos Saurus</h1>
 <h3 align="center">Apaixonados por tecnologia, estamos sempre em busca de inovação, com o objetivo de entregar a excelência em sistemas de gestão.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
